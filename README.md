@@ -1,46 +1,46 @@
-CARA INSTALL DATA TOOLS CUKUP SEKALI SAJA
+☣️ CARA INSTALL DATA TOOLS ☣️
 
-$pkg update && pkg upgrade
+pkg update && pkg upgrade
 
-$pkg install git
+pkg install git
 
-$pkg install python -y
+pkg install python -y
 
-$pip install requests
+pip install requests
 
-$pip install uuid
+pip install uuid
 
-$pip install cython
+pip install cython
 
-$pip install bs4
+pip install bs4
 
-$pip install rich
+pip install rich
 
-$pip install clean-text
+pip install clean-text
 
-$pip install Unidecode
+pip install Unidecode
 
-$pip install halo
+pip install halo
 
-$pip install licensing
+pip install licensing
 
-$pip install -r requirements.txt
+pip install -r requirements.txt
 
-$pip install pycryptodomex
+pip install pycryptodomex
 
-$pip install pycryptodome
+pip install pycryptodome
 
-$pkg install clang python binutils libffi openssl libsodium
+pkg install clang python binutils libffi openssl libsodium
 
-$SODIUM_INSTALL=system pip3 install pynacl
+SODIUM_INSTALL=system pip3 install pynacl
 
-$git clone https://github.com/pukimai378/Cracking-Ig
+git clone https://github.com/pukimai378/Cracking-Ig
 
-$cd Cracking-Ig
+cd Cracking-Ig
 
-$python cracking-ig.py
+python cracking-ig.py
 
-Cara Run Tools 
+⚜️ CARA RUN TOOLS ⚜️
 
 cd Cracking-Ig
 
