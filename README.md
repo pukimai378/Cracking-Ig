@@ -58,9 +58,7 @@ Crack Dari Mengikuti
 Lihat Hasil Crack
 
 
-
 CATATAN:
-
 result crack followers banyak atau sedikit nya
 tergantung target yang di dapatkan
 pintar-pintar dalam mencari target
